@@ -95,7 +95,7 @@ fitbit-retention-analysis/
 ├── outputs/
 │   └── figures/
 ├── reports/
-│   └── final_report.md
+│   └── report.md
 ├── requirements.txt
 └── .gitignore
 ```
